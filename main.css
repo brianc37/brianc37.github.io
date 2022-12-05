@@ -1,0 +1,18 @@
+body {
+    background-image: url("riddler.png");
+    background-color: #456e46;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: #456e46;
+    width: 100px;
+    height: 50px;
+}
